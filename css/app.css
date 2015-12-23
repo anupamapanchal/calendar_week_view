@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 Dec, 2015, 3:23:39 PM
+    Author     : anupamapanchal
+*/
+
+.sidebar{
+    background: linear-gradient(-20deg, #d0b782 20%, #a0cecf 80%);
+    
+}
+.sidebar-menu{
+    background:none;
+}
